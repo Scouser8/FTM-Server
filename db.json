@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "muhammad.adel@yopmail.com",
+      "password": "$2a$10$LOmqwdgzeU6QLW9CeuoumeivS8pBY1S7Wu4FBQE6Wsgnmkga9.M2i",
+      "firstName": "Muhammad",
+      "lastName": "Abd AlBaqi",
+      "id": 1
+    }
+  ],
+  "flightTickets": [
+    {
+      "flightCode": "A1",
+      "date": "31/12/2023",
+      "capacity": 200,
+      "id": 1
+    }
+  ]
+}
